@@ -1,4 +1,6 @@
+# This is Jake Web3's new repo for Halo2 during PSE participation
 # halo2-lib
+
 
 > ⚠️ **This branch contains un-audited contributions from the community.** Community contributions in this branch have been reviewed by maintainers of this repository, but they have not undergone official audit. To use the latest audited version make sure to use the correct commit. The tagged versions that have undergone official audit and are ready for production use can be found in the [releases](https://github.com/axiom-crypto/halo2-lib/releases).
 
